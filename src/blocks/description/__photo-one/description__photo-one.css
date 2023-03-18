@@ -1,0 +1,13 @@
+.description__photo-one {
+    display: block;
+    width: 100%;
+    opacity: 1;
+    border-radius: 20px 20px 0 0;
+    margin: 0;
+    padding: 0;
+    background-image: url("../../../../images/descrip-one.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    transition: all 2s linear;
+    position: relative;
+}

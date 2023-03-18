@@ -1,0 +1,9 @@
+.description {
+    width: 98%;
+    height: 700px;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    background-color: #C0C0C0;
+    border-radius: 20px 20px 0 0;
+}
