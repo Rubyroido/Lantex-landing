@@ -1,0 +1,11 @@
+.header {
+    margin: 10px 0 0;
+    padding: 0 2%;
+    width: 98%;
+    height: 50px;
+    display: flex;
+    justify-content: space-between;
+    background-color: white;
+    border-radius: 15px;
+    box-sizing: border-box;
+}

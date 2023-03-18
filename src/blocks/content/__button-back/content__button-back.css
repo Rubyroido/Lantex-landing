@@ -1,0 +1,21 @@
+.content__button-back {
+    padding: 0;
+    margin: 0;
+    scale: 1;
+    width: 25px;
+    height: 25px;
+    position: fixed;
+    bottom: 20%;
+    right: 5%;
+    background-image: url("../../../../images/button-back.svg");
+    background-repeat: no-repeat;
+    background-size: contain;
+    border: 2px black linear;
+    border-radius: 50%;
+    box-sizing: content-box;
+    transition: all 1s ease-in-out 2s;
+}
+
+.content__button-back:hover {
+    scale: 1.5;
+}   
