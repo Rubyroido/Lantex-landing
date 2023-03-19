@@ -1,0 +1,16 @@
+.description__photo {
+    display: block;
+    opacity: 0;
+    width: 0;
+    height: 100vh;
+    border-radius: 20px 20px 0 0;
+    margin: 0;
+    padding: 0;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    transition: all 1s linear;
+    position: relative;
+    font-size: 0;
+    text-indent: -2000px;
+}
