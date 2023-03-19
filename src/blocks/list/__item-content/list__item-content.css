@@ -1,0 +1,12 @@
+.list__item-content {
+    padding: 0;
+    margin: 0 20px 20px;
+    display: none;
+    justify-content: space-between;
+    align-items: end;
+    transition: all 1s linear;
+}
+
+.list__item-content_active {
+    display: flex;
+}
