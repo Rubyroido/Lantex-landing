@@ -1,0 +1,14 @@
+.reviews {
+    filter: grayscale(100%);
+    width: 70%;
+    transition: all 1s linear;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #C0C0C0;
+    border-radius: 0 0 20px 20px ;
+}
+
+.reviews:hover {
+    filter: none;
+}
