@@ -2,4 +2,4 @@
 
 ## Сайт-лендинг парикмахерской Лантэкс
 
-### https://rubyroido.github.io/Lantex-landing/
+### https://rubyroido.github.io/Lantex-landing/index.html
