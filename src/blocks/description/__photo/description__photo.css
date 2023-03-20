@@ -12,5 +12,6 @@
     transition: all 1s linear;
     position: relative;
     font-size: 0;
+    overflow: hidden;
     text-indent: -2000px;
 }
