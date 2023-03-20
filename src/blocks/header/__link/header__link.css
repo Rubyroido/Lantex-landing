@@ -10,12 +10,12 @@
 
 .header__link:hover {
     border-bottom: 1px black solid;
-    scale: 1.4;
+    font-size: 23px;
 }
 
 @media (hover: none) and (pointer: coarse) {
     .header__link:hover {
         border-bottom: 1px black solid;
-        scale: 1.4;
+        font-size: 23px;
     }
 }
