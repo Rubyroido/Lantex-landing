@@ -8,4 +8,5 @@
     background-color: white;
     border-radius: 15px;
     box-sizing: border-box;
+    position: relative;
 }
