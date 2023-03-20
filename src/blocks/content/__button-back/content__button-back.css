@@ -20,5 +20,11 @@
 }
 
 .content__button-back:hover {
-    scale: 1.5;
+    scale: 1.3;
 }   
+
+@media (hover: none) and (pointer: coarse) {
+    .content__button-back:hover {
+        scale: 1.3;
+    }   
+}

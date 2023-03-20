@@ -7,3 +7,9 @@
     align-items: baseline;
     gap: 20px;
 }
+
+@media screen and (max-width:700px) {
+    .list__item-services {
+        width: 98%;
+    }
+}

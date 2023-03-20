@@ -12,3 +12,15 @@
 .reviews:hover {
     filter: none;
 }
+
+@media (hover: none) and (pointer: coarse) {
+    .reviews:hover {
+        filter: none;
+    }
+}
+
+@media screen and (max-width:700px) {
+    .reviews  {
+        width: 98%;
+    }
+}
